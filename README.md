@@ -4,14 +4,15 @@
 
 > *"Innovating at the intersection of Web3 and AI."*
 
-I’m the CEO and Lead Developer at **Aera**, where we’re building cutting-edge solutions that combine **Web3** and **AI** technologies to redefine how systems interact and evolve. As an Imperial College graduate, I bring a strong foundation in computer science and a passion for creating intelligent, decentralised systems.
+I’m the CEO and Lead Developer at **Aera**, where we’re building cutting-edge solutions that combine **Web3** and **AI** to redefine how systems interact and evolve. As an ICL grad, I bring a strong foundation in computer science and a passion for creating intelligent, decentralised systems.
 
-<h3>What We're Building at Aera 🔮</h3>
+<h3>What We're Building at Aera:</h3>
 
-- **Decentralised AI Agents**: Autonomous systems powered by blockchain.
-- **Web3 Integration**: Secure, transparent, and efficient solutions.
-- **AI-Driven Automation**: Revolutionising workflows with intelligent automation.
-- **Scalable Architectures**: Building systems that grow with demand.
+- **No-Code AI Builder**: Create intelligent apps with zero coding required.
+- **RAG-Powered Assistants**: Build AI that understands your documents and data.
+- **Plug & Play Integrations**: Connect instantly to tools like Notion, Slack, and Google Drive.
+- **Custom AI Workflows**: Design logic-driven flows tailored to your needs.
+- **Open-Source & Self-Hostable**: Full control over your stack and data.
 
 <h3>Tech Stack 🛠️</h3>
 
@@ -24,7 +25,7 @@ I’m the CEO and Lead Developer at **Aera**, where we’re building cutting-edg
 
 <h3>Get in Touch 📫</h3>
 
-- Email: [me@alan.ad](mailto:me@alan.ad)
+- Email: [me@alans.one](mailto:me@alans.one)
 - Twitter: [@alandegree](https://twitter.com/alandegree)
 
 <details>
