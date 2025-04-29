@@ -2,7 +2,7 @@
 
 <h3>About Me 🚀</h3>
 
-> *"Innovating at the intersection of Web3 and AI."*
+> *"Welcome to the new aERA."*
 
 I’m the CEO and Lead Developer at **Aera**, where we’re building cutting-edge solutions that combine **Web3** and **AI** to redefine how systems interact and evolve. As an ICL grad, I bring a strong foundation in computer science and a passion for creating intelligent, decentralised systems.
 
